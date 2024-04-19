@@ -1,4 +1,4 @@
-#!/usr/bin/env python 3
+#!/usr/bin/env python3
 """ A script of type-annoted function that takes a float
 as an argument and returns string representation of the argument.
 """
