@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """ A script that defines a coroutine to calculate the runtime
-of a parallel
+for four parallel comprehensions using asyncio.gather()
 """
 import asyncio
 import time
